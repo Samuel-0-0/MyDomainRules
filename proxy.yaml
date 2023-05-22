@@ -1,8 +1,6 @@
 payload:
   # hcaptcha
   - DOMAIN-SUFFIX,hcaptcha.com
-  - DOMAIN,newassets.hcaptcha.com
-  - DOMAIN,imgs.hcaptcha.com
   # github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
