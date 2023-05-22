@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN,newassets.hcaptcha.com
+  - DOMAIN,imgs.hcaptcha.com
