@@ -1,4 +1,26 @@
 payload:
+  # hcaptcha
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN,newassets.hcaptcha.com
   - DOMAIN,imgs.hcaptcha.com
+  # github
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,github.community
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubuniverse.com
+  - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubnext.com
+  - DOMAIN-SUFFIX,githubpreview.dev
+  # google
+  - DOMAIN-KEYWORD,appspot
+  - DOMAIN-KEYWORD,blogspot
+  - DOMAIN-KEYWORD,gmail
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,recaptcha
