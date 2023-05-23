@@ -1,6 +1,6 @@
 payload:
   # hcaptcha
-  - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-KEYWORD,hcaptcha
   # github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
@@ -22,3 +22,7 @@ payload:
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,recaptcha
+  - DOMAIN-KEYWORD,youtube
+  # printables.com 缺少
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,i.creativecommons.org
