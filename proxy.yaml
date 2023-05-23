@@ -23,6 +23,9 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,recaptcha
   - DOMAIN-KEYWORD,youtube
+  - DOMAIN-SUFFIX,gstatic.com
   # printables.com 缺少
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,i.creativecommons.org
+  # openstreetmap地图
+  - DOMAIN-SUFFIX,openstreetmap.org
